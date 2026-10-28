@@ -12,7 +12,7 @@ This activity documents the installation of two 12TB hard disk drives (HDDs) int
 ![Drive Installation](images/nas-2x12tb-hdd-installation.png)
 - RAID configuration from RAID 1 to RAID 5.
 ![DSM RAID Type Selection](images/dsm-raid-type-selection.png)
-![RAID configuration](images/dsm-raid-5-configuration-confirmation.png)
+![DSM RAID configuration](images/dsm-raid-5-configuration-confirmation.png)
 - Verification of installed drives through the NAS management interface.
 - Documentation of the storage configuration process.
 
