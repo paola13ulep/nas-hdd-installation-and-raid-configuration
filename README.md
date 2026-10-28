@@ -9,7 +9,9 @@ This activity documents the installation of two 12TB hard disk drives (HDDs) int
 
 ## Tasks Performed
 - RAID configuration from RAID 1 to RAID 5.
+  ![RAID configuration](images/raid-configuration-before.jpg)
 - Installation of two 12TB HDDs in Bays 3 and 4.
+  ![RAID configuration](images/raid-configuration-before.jpg)
 - Verification of installed drives through the NAS management interface.
 - Documentation of the storage configuration process.
 
